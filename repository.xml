@@ -1,0 +1,7 @@
+<repository>
+   <id>com.crunchyroll</id>
+   <url>https://github.com/mozychan/boxeeroll</url>
+   <name>Boxeeroll</name>
+   <thumb>http://urlxl-repo.googlecode.com/git/plugin.video.crunchyroll-takeout/icon.png</thumb>
+   <description>Crunchyroll removing their app from boxee has been bothersome.</description>
+</repository>
